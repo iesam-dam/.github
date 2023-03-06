@@ -9,7 +9,7 @@ Para poder acceder a los repositorios debes solicitar permiso a tu profesor (Che
 - [Plagrícola](https://plagricola.sitehub.es)
 - [Ávila en Tapas](https://avilaentapas.sitehub.es)
 - [Protectora Huellas](https://protectorahuellas.sitehub.es)
-- [Carné Joven]()https://youthcard.sitehub.es)
+- [Carné Joven](https://youthcard.sitehub.es)
 
 ## Premios obtenidos
 - **Plagrícola**: Segundo premios Open Data CyL 2021 [Link a los premios](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/premiados-v-concurso.html)
